@@ -1,0 +1,10 @@
+-main Test
+-cp test
+-cp lib
+-lib utest
+
+--each
+
+--interp
+-D dump=pretty
+
